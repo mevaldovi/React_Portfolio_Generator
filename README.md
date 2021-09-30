@@ -21,6 +21,8 @@ This project was made possible with React, GraphQL, Apollo-Server, Bootstrap, & 
 ## Credits
 
 This project was made possible thanks to the following people
+
+
 [Mason Wallis](https://github.com/mwallis5110)
 
 
