@@ -15,8 +15,7 @@ Outside of the tech world, building a solid and quality portfolio can be an extr
 Upon creating an account, users can log in and follow the series of prompts to generate their own project portfolio.
 
 # Technologies Used
-
-This project was made possible with React, GraphQL, Apollo-Server, Bootstrap, & JSX.
+ React, GraphQL, Apollo-Server, Bootstrap, & JSX.
 
 ## Credits
 
