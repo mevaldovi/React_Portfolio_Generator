@@ -1,9 +1,9 @@
 # React_Porfolio_Generator
 
-[Github](https://github.com/mwallis5110/React_Portfolio_Generator)  
+Github repo: [https://github.com/mwallis5110/React_Portfolio_Generator](https://github.com/mwallis5110/React_Portfolio_Generator)  
 
 
-[Deployed React App](https://react-portfolio-generator-uta.herokuapp.com/)
+Deployed app: [https://react-portfolio-generator-uta.herokuapp.com](https://react-portfolio-generator-uta.herokuapp.com)
 
 
 <img width="793" alt="ReactPortfolio" src="https://user-images.githubusercontent.com/83307023/135495359-85d0eaf8-3eb9-442a-98ed-b461c127a66c.PNG">
@@ -19,6 +19,11 @@ Upon creating an account, users can log in and follow the series of prompts to g
 
 # Technologies Used
  React, GraphQL, Apollo-Server, Bootstrap, & JSX.
+ 
+ - Clone down this repo
+ - npm install
+ - cd src
+ - npm start
 
 ## Credits
 
