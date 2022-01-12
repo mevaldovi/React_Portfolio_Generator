@@ -22,8 +22,11 @@ Upon creating an account, users can log in and follow the series of prompts to g
  
  - Clone down this repo
  - npm install
- - cd src
- - npm start
+ - create schema in MongoDB
+ - cd seeders
+ - npm run seed
+ - cd client
+ - npm start 
 
 ## Credits
 
