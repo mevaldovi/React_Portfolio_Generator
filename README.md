@@ -22,9 +22,6 @@ Upon creating an account, users can log in and follow the series of prompts to g
  
  - Clone down this repo
  - npm install
- - create schema in MongoDB
- - cd seeders
- - npm run seed
  - cd client
  - npm start 
 
@@ -46,3 +43,10 @@ This project was made possible thanks to the following people
 
 
 [Evan Ebert](https://github.com/evan-ebert17)
+
+## Contact Me
+If there are any issues running this application locally, please reach out to me:
+
+Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
+
+Email: [mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
