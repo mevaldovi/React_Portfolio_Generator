@@ -20,10 +20,14 @@ Upon creating an account, users can log in and follow the series of prompts to g
 # Technologies Used
  React, GraphQL, Apollo-Server, Bootstrap, & JSX.
  
- - Clone down this repo
- - npm install
- - cd client
- - npm start 
+ Bold text indicates commands in the terminal; italicized text indicates steps to take
+ 
+ - _Clone down this repo_
+ - **npm install**
+ - **cd server.js**
+ - **node server.js**
+ - **cd client**
+ - **npm start** 
 
 ## Credits
 
