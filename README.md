@@ -18,6 +18,7 @@ Outside of the tech world, building a solid and quality portfolio can be an extr
 Upon creating an account, users can log in and follow the series of prompts to generate their own project portfolio.
 
 # Technologies Used
+
  [<img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/docs/getting-started.html)
  
 [<img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />](https://graphql.org/learn)
