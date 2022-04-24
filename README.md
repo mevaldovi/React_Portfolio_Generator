@@ -19,13 +19,12 @@ Upon creating an account, users can log in and follow the series of prompts to g
 
 # Technologies Used
 
- [<img align="left" alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/docs/getting-started.html)
+ [<img alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/docs/getting-started.html)
  
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />](https://graphql.org/learn)
+[<img alt="medium" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />](https://graphql.org/learn)
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://getbootstrap.com/docs/4.1/getting-started/introduction)
+[<img alt="medium" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />](https://getbootstrap.com/docs/4.1/getting-started/introduction)
 
-`================`
 
  ## Usage
  
