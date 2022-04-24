@@ -20,14 +20,19 @@ Upon creating an account, users can log in and follow the series of prompts to g
 # Technologies Used
  React, GraphQL, Apollo-Server, Bootstrap, & JSX.
  
- Bold text indicates commands in the terminal; italicized text indicates steps to take
- 
  - _Clone down this repo_
- - **npm install**
- - **cd server.js**
- - **node server.js**
- - **cd client**
- - **npm start** 
+
+ - `npm install`
+ 
+ - `cd server.js`
+ 
+ - `node server.js`
+ 
+ - `cd client`
+ 
+ - `npm start`
+ 
+ - _app should initialize automatically in the browser_
 
 ## Credits
 
@@ -53,4 +58,7 @@ If there are any issues running this application locally, please reach out to me
 
 Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
 
-Email: [mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
+LinkedIn : [https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)
+
+
+Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
